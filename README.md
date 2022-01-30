@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi Everone 👋
+
+Thanks for visiting my profile. This is an area for me to explore some concepts from basic to as complex as I can manage.
+I'm predominantly a C/C++ guy but I hope to develop some new skills as I go.
+
+Please feel free to contribute to anything I have made public and do reach out to engage.
+
+😄
 
 <!--
 **krbceng/krbceng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
