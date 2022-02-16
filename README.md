@@ -1,4 +1,4 @@
-<h2> Hi Everone</h2>
+<h2> Hi</h2>
 
 <p>Thanks for visiting my profile.</p>
 <p>This is an area for me to explore some concepts from basic to as complex as I can manage.
